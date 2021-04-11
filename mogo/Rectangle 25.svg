@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 40" width="230" height="40">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff;stroke: #e7e7e7 } 
+	</style>
+	<g id="footer">
+		<g id="subscribe">
+			<path id="Rectangle 25" class="shp0" d="M0 0L230 0L230 40L0 40L0 0Z" />
+		</g>
+	</g>
+</svg>
